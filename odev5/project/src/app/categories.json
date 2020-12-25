@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Teknoloji",
+        "color": "red"
+    },
+    {
+        "name": "Gündem",
+        "color": "green"
+    },
+    {
+        "name": "Eğitim",
+        "color": "orange"
+    },
+    {
+        "name": "Müzik",
+        "color": "blue"
+    },
+    {
+        "name": "Tarih",
+        "color": "grey"
+    }
+]

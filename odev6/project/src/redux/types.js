@@ -1,0 +1,3 @@
+export const POSTS_GET_ALL = 'POSTS_GET_ALL';
+export const POSTS_GET_ALL_ERROR = 'POSTS_GET_ALL_ERROR';
+export const POSTS_SET_SHOW = 'POSTS_SET_SHOW';
